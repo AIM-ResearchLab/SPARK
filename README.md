@@ -10,7 +10,6 @@ This repository is the official implementation of SPARK.
 ## 🗞️ Release Notes
 - [2026/04/23] 🚀 We’re thrilled to release the SPARK! The paper, code is now open to the community.
 - [2026/05/01] 🎉 SPARK has been accepted to ICML 2026!
-- 
 
 
 
